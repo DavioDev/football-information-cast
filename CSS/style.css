@@ -1,0 +1,46 @@
+@font-face{
+   font-family: 'Minecraft';
+   src:url('Minecraft.ttf')format('opentype'), url('Minecraft.ttf')format('truetype');
+   font-weight:normal;
+   font-style:normal;
+
+}
+
+*{
+   margin:0 auto;
+   padding:0;
+   box-sizing:border-box;
+}
+body, html{
+   background-image: url(/IMG/depositphotos_86338734-stock-illustration-seamless-green-lawn-grass-pixel.jpg);
+   background-color: 	#008080b6;
+}
+#menuh{
+   max-width: 800px;
+   list-style: none;
+   padding: 0;
+   background-color: #00800093;
+}
+#menuh li {
+   color: rgb(255, 255, 255);
+   padding: 20px;
+   text-decoration: none;
+   display: inline-block;
+   transition: all .4s;
+}
+#menuh li:hover{
+   background-color: #2F4F4F;
+   cursor:pointer;
+}
+#menuh  li:last-child{
+   float: right;
+   background-color: #2f4f4fc0;
+}
+
+
+
+
+li{
+   font-family: 'Minecraft';
+   font-weight: normal;
+}
