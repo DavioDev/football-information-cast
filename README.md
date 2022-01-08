@@ -5,6 +5,7 @@
 
 > `1.1.01`
 > horizontal menu with some tabs, selection implementation and system start
+
 > `1.4.08`
 >in this version add more players, the team bench, we have fixed the horizontal menu by removing the `field` tab, the json of own players that can be edited by the player and the beginning of the teams has been added to the code
  ----
