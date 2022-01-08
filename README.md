@@ -5,5 +5,8 @@
 
 > `1.1.01`
 > horizontal menu with some tabs, selection implementation and system start
+> `1.4.08`
+>in this version add more players, the team bench, we have fixed the horizontal menu by removing the `field` tab, the json of own players that can be edited by the player and the beginning of the teams has been added to the code
  ----
-![Campo-de-Futebol](https://user-images.githubusercontent.com/87165376/148494775-9f5d071c-9753-4030-a4eb-2832cd0c1677.png)
+![cas](https://user-images.githubusercontent.com/87165376/148659889-a9b7511a-0541-4314-96a5-b2aa859fbfc3.png)
+![bac](https://user-images.githubusercontent.com/87165376/148659891-c6f18b7e-85dc-4a9b-becc-8978c2aa5931.png)
