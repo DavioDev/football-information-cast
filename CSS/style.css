@@ -19,7 +19,7 @@ body, html{
    max-width: 800px;
    list-style: none;
    padding: 0;
-   background-color: #00800093;
+   background-color: #134d1381;
 }
 #menuh li {
    color: rgb(255, 255, 255);
@@ -43,4 +43,48 @@ body, html{
 li{
    font-family: 'Minecraft';
    font-weight: normal;
+}
+
+
+
+.cartast{
+   color: antiquewhite;
+   font-family: Minecraft;
+   font-weight: normal;
+   text-align: center;
+   padding-top: 50px;
+}
+.cartas{
+   width: 60%;
+}
+.divcartas{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   height: 550px;
+}
+.cartas2{
+   width: 60%;
+}
+.divcartas2{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   height: 550px;
+}
+.cartast2{
+   color: antiquewhite;
+   font-family: Minecraft;
+   font-weight: normal;
+   text-align: center;
+   padding-top: 50px;
+}
+.timest{
+   color: antiquewhite;
+   font-family: Minecraft;
+   font-weight: normal;
+   text-align: center;
+   padding-top: 50px;
+   font-size: 35px;
+
 }
