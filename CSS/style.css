@@ -88,3 +88,32 @@ li{
    font-size: 35px;
 
 }
+.times{
+   width: 60%;
+}
+.divtimes{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   height: 550px;
+}
+.tran{
+   color: antiquewhite;
+   font-family: Minecraft;
+   font-weight: normal;
+   text-align: center;
+   padding-top: 50px;
+   font-size: 35px;
+
+}
+.transferencias{
+   color: antiquewhite;
+   font-family: Minecraft;
+   font-weight: normal;
+   text-align: center;
+   padding-top: 50px;
+   font-size: 20px;
+}
+.messi{
+   font-weight: normal;
+}
